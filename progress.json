@@ -25,14 +25,5 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "grocery-shopping",
-    "started_at": 1787376474.447767,
-    "completed_at": 1787376477.503488,
-    "comments": [
-      "There are no new grocery list items added to the shopping list."
-    ],
-    "status": "Incomplete"
   }
 ]
